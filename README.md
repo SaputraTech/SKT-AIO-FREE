@@ -1,1 +1,1 @@
-# SKT-AIO-FREE
+🎉 Your configuration has been successfully !
