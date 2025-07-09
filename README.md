@@ -4,7 +4,7 @@
 </p>
 
 # PREVIEW
-<p float="left">
+<p float="center">
   <img src="menu.jpg" width="32%" />
   <img src="xray.jpg" width="32%" />
 </p>
