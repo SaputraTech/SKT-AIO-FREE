@@ -1,8 +1,8 @@
 **⚠️ FREE ACCESS, NO PERMISSION ⚠️**
 
-### 📣 SKT  A I O  Tunneling 📣
+** 📣 SKT  A I O  Tunneling 📣**
 
-☘ SUPPORT OS ☘  
+**SUPPORT DI OS:**
   
 ➽ Debian 10, 11  (recommended)   
 ➽ Ubuntu 20
