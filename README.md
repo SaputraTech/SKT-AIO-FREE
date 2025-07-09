@@ -5,9 +5,9 @@
 ➽ Debian 10, 11, 12 (recommended)   
 ➽ Ubuntu 20
 
-**⚠️ FREE ACCESS, NO PERMISSION ⚠️**
-
 ⚡️ INSTALASI ⚡️     
+
+**⚠️ FREE ACCESS, NO PERMISSION ⚠️**
 
 ❏ STEP 1 : 
 ```
