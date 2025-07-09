@@ -69,9 +69,8 @@ tmux attach -t skartivpn
 - ❐ Trojan gRPC : 443 <br>
 - ❐ Shadowsocks gRPC : 443 <br>
 
-<br>
-<br>
-**Join our Telegram:** <br>
+
+**Join our Telegram:**
 - https://t.me/PhreakersVPN
 
 **COPYRIGHT:**
