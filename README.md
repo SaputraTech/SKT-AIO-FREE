@@ -1,5 +1,6 @@
 **⚠️ FREE ACCESS, NO PERMISSION ⚠️**
 
+
 ### **📣 SKT  A I O  Tunneling 📣**
 
 **SUPPORT DI OS:**
@@ -44,3 +45,10 @@ tmux attach -t skartivpn
 - ❐ Vless gRPC : 443 <br>
 - ❐ Trojan gRPC : 443 <br>
 - ❐ Shadowsocks gRPC : 443 <br>
+
+
+**COPYRIGHT:**
+- Copyright © 2025 Skarti VPN Official 
+
+**Join our Telegram**
+https://t.me/PhreakersVPN
