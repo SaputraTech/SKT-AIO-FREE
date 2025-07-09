@@ -3,6 +3,14 @@
     <img src="os.png" width="500" height="300">
 </p>
 
+# PREVIEW
+<p float="left">
+  <img src="menu.jpg" width="32%" />
+  <img src="ssh.jpg" width="32%" />
+  <img src="xray.jpg" width="32%" />
+</p>
+
+
 ### **📣 SKT  A I O  Tunneling 📣**
 
 **SUPPORT DI OS:**
