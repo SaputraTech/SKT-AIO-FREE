@@ -1,4 +1,4 @@
-![QRIS Image](https://github.com/Nizwarax/Xray-Only/raw/main/Qris.jpeg)
+![QRIS Image](https://github.com/SaputraTech/SKT-AIO-FREE//raw/main/menu.png)
 
 ### **📣 SKT  A I O  Tunneling 📣**
 
