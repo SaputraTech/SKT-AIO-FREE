@@ -15,7 +15,7 @@ apt-get update && apt-get upgrade -y && apt dist-upgrade -y && update-grub && ap
 ❏ STEP 2 : 
 ➽ Pastikan anda sudah login sebagai root :   
 ``` 
-wget https://raw.githubusercontent.com/SaputraTech/SKT-AIO-FREE/main/installer && bash installer && apt install tmux -y && tmux new-session -d -s skartivpn bash Install && tmux attach -t skartivpn
+wget https://raw.githubusercontent.com/SaputraTech/SKT-AIO-FREE/main/installer && bash installer && apt install tmux -y && tmux new-session -d -s skartivpn bash install && tmux attach -t skartivpn
 ```
 
 ❏ STEP 3 :     
