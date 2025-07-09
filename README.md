@@ -1,5 +1,3 @@
-![QRIS Image](https://github.com/SaputraTech/SKT-AIO-FREE//raw/main/menu.jpg)
-
 ### **📣 SKT  A I O  Tunneling 📣**
 
 **SUPPORT DI OS:**
@@ -64,3 +62,5 @@ tmux attach -t skartivpn
 
 **Join our Telegram:**
 - https://t.me/PhreakersVPN
+
+![QRIS Image](https://github.com/SaputraTech/SKT-AIO-FREE//raw/main/menu.jpg)
