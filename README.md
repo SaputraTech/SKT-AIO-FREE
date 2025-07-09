@@ -70,8 +70,8 @@ tmux attach -t skartivpn
 - ❐ Shadowsocks gRPC : 443 <br>
 
 
-**COPYRIGHT:**
-- Copyright © 2025 Skarti VPN Official 
-
 **Join our Telegram:**
 - https://t.me/PhreakersVPN
+
+**COPYRIGHT:**
+- Copyright © 2025 Skarti VPN Official 
