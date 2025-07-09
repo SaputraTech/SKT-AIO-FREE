@@ -1,11 +1,11 @@
 ### **📣 SKT  A I O  Tunneling 📣**
 
-**⚠️ FREE ACCESS, NO PERMISSION ⚠️**
-
 **SUPPORT DI OS:**
   
 ➽ Debian 10, 11, 12 (recommended)   
 ➽ Ubuntu 20
+
+**⚠️ FREE ACCESS, NO PERMISSION ⚠️**
 
 ⚡️ INSTALASI ⚡️     
 
