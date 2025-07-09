@@ -6,7 +6,6 @@
 # PREVIEW
 <p float="left">
   <img src="menu.jpg" width="32%" />
-  <img src="ssh.jpg" width="32%" />
   <img src="xray.jpg" width="32%" />
 </p>
 
