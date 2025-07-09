@@ -71,7 +71,7 @@ tmux attach -t skartivpn
 
 <br>
 <br>
-**Join our Telegram:**
+**Join our Telegram:** <br>
 - https://t.me/PhreakersVPN
 
 **COPYRIGHT:**
