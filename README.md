@@ -16,8 +16,8 @@
 
 **SUPPORT DI OS:**
   
-➽ Debian 10, 11, 12 (recommended)   
-➽ Ubuntu 20
+- Debian 10, 11, 12 (recommended)   
+- Ubuntu 20
 
 ⚡️ INSTALASI ⚡️     
 
