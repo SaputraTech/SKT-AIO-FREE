@@ -10,6 +10,8 @@
 </p>
 
 
+<h2 align="center">**⚠️ FREE ACCESS, NO PERMISSION ⚠️**</h2>
+
 ### **📣 SKT  A I O  Tunneling 📣**
 
 **SUPPORT DI OS:**
@@ -18,8 +20,6 @@
 ➽ Ubuntu 20
 
 ⚡️ INSTALASI ⚡️     
-
-**⚠️ FREE ACCESS, NO PERMISSION ⚠️**
 
 ❏ STEP 1 : 
 ```
