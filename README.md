@@ -1,4 +1,4 @@
-![QRIS Image](https://github.com/SaputraTech/SKT-AIO-FREE//raw/main/menu.png)
+![QRIS Image](https://github.com/SaputraTech/SKT-AIO-FREE//raw/main/menu.jpg)
 
 ### **📣 SKT  A I O  Tunneling 📣**
 
