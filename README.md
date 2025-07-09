@@ -50,5 +50,5 @@ tmux attach -t skartivpn
 **COPYRIGHT:**
 - Copyright © 2025 Skarti VPN Official 
 
-**Join our Telegram**
+**Join our Telegram:**
 - https://t.me/PhreakersVPN
