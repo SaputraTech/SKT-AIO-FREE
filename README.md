@@ -1,3 +1,8 @@
+<h2 align="center"> Supported Linux Distribution</h2>
+<p align="center">
+    <img src="os.png" width="500" height="300">
+</p>
+
 ### **📣 SKT  A I O  Tunneling 📣**
 
 **SUPPORT DI OS:**
