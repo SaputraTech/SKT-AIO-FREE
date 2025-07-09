@@ -5,7 +5,7 @@
 
 **SUPPORT DI OS:**
   
-➽ Debian 10, 11  (recommended)   
+➽ Debian 10, 11, 12 (recommended)   
 ➽ Ubuntu 20
 
 ⚡️ INSTALASI ⚡️     
@@ -27,6 +27,17 @@ wget https://raw.githubusercontent.com/SaputraTech/SKT-AIO-FREE/main/installer &
 tmux attach -t skartivpn
 ```
 
+
+**Minimum VPS Specifications:**
+- RAM: 1 GB (Minimal)
+- SSD: 10GB
+- 1 vCPU
+
+**FEATURES:**
+- Create SSH Websocket
+- Create XRAY Webscoket & gRPC
+- Setup BOT Telegram Backup & Notif
+- And More
 
 ### Support Wildcard ✅
 
