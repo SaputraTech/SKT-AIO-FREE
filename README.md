@@ -1,3 +1,8 @@
+<h2 align="center"> Supported Linux Distribution</h2>
+<p align="center">
+    <img src="os.png" width="500" height="300">
+</p>
+
 <section style="display: flex; flex-direction: column; align-items: center; gap: 16px; margin: 0 auto; text-align: center;">
   
   <!-- Header Image -->
@@ -35,11 +40,6 @@
   </a>
 </p>
 
-
-<h2 align="center"> Supported Linux Distribution</h2>
-<p align="center">
-    <img src="os.png" width="500" height="300">
-</p>
 
 # PREVIEW
 <p float="center">
